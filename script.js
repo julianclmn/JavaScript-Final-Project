@@ -18,5 +18,8 @@ const behavior =  () => {
 }
 
 //console.log(behavior())
+<<<<<<< HEAD:SCRIPT.JS
 
 //Final
+=======
+>>>>>>> 51ca4d6fe0d60d766eda3653ee597762ecfcc4ae:script.js
