@@ -1,1 +1,24 @@
+html{
+  background-color:#CDC4AA;
+} 
  
+ #titulo{
+  display:flex; 
+  justify-content:center;
+  height:200px;
+  font-family: 'Rubik Puddles', cursive;
+  font-size:70px
+ }
+
+
+#attention{
+  display:flex; 
+  justify-content:center;
+  height:200px;
+  FONT-FAMILY:'Inconsolata', Times New Roman;
+}
+
+#mickey{
+
+  height:550px;
+}
